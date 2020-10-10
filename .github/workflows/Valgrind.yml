@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test
-        valgrind ./build/Test_Yashcalc.out
+        valgrind ./build/Test_calcOperations.out
