@@ -12,7 +12,7 @@ src/calcOperations.c\
 TEST_SRC = src/calcOperations.c\
 test/test_calc_operations.c
 
-TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT = $(BUILD)/test_$(PROJECT_NAME).out
 
 
 
