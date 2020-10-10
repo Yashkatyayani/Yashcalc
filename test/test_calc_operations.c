@@ -3,7 +3,7 @@
 
 /* Modify these two lines according to the project */
 #include <calcoperator.h>
-#define PROJECT_NAME    "Calculator"
+#define PROJECT_NAME    "Yashcalc"
 
 /* Prototypes for all the test functions */
 void test_add(void);
